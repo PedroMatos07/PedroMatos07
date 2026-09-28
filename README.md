@@ -73,8 +73,8 @@ I'm continuously learning and building projects to strengthen my skills in backe
 📊 GitHub Stats
 
 <p align="left">
-  <img height="170" src="./profile/stats.svg" />
-  <img height="170" src="./profile/top-langs.svg" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=PedroMatos07&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroMatos07&layout=compact&theme=tokyonight" />
 </p>
 ---
 🚀 Philosophy
